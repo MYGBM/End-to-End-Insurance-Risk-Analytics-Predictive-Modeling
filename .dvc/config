@@ -1,0 +1,4 @@
+[core]
+    remote = localstorgae
+['remote "localstorgae"']
+    url = C:\Users\yeget\LocalStorage

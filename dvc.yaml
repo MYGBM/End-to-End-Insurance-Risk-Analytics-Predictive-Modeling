@@ -1,0 +1,8 @@
+stages:
+  initial_process_csv:
+    cmd: python scripts/initial_preprocess.py
+    deps:
+    - data/raw/MachineLearningRating_v3.txt
+    - scripts/initial_preprocess.py
+    outs:
+    - data/processed/MachineLearningRating_v3.csv
