@@ -3,3 +3,7 @@ numpy
 matplotlib
 seaborn
 dvc
+mlflow
+scipy
+sc
+sklearn
